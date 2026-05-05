@@ -1,0 +1,16 @@
+=== MA FORMATION CYBERSECURITE ===
+
+JOUR 1 -Base Linux
+- whoami, pwd, ls, cd, mkdir
+- touch, echo, cat, history
+
+JOUR 2 -Commandes avancees
+- cp, mv, rm, grep, nano
+
+JOUR 3 -Permissions et logs
+- chmod 600 : fichier prive
+- chmod 644 : fichier public
+- chmod 755 : fichier executable
+- grep "error" /var/log/syslog
+- grep "fail" /var/log/syslog
+- wc -l : compter les evenements

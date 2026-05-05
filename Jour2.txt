@@ -1,0 +1,9 @@
+Jour 2 - Commandes avancées Linux
+Ce que j'ai appris aujourd'hui:
+- cp : copier un fichier
+- mv : renommer ou déplacer
+- rm : supprimer definitivement
+- grep : chercher du texte
+- nano :editer un fichier
+
+
