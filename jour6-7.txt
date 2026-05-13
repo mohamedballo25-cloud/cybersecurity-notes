@@ -1,0 +1,7 @@
+Jour 6-7 - Root Me Défis résolus
+- HTML boutons désactivés : 5 pts
+- Javascript Authentification : 5 pts
+- Javascript Source : 5 pts
+- Javascript Authentification : 10 pts
+- Total : 25 points
+- Leçon : ne jamais mettre passwords dans le code client
